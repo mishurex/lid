@@ -1,0 +1,10 @@
+.pp{
+    font-size: 30px;
+    font-family: papyrus;
+}
+a:link{ color: 477368;
+}
+a:hover{color: DFC1B0;}
+a:visited{
+    color: 7EBB9F;
+}
